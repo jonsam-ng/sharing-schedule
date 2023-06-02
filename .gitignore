@@ -1,2 +1,9 @@
 .next
 node_modules
+
+# modules
+pnpm-lock.yaml
+
+# editor
+.history
+

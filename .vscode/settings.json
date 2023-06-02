@@ -1,0 +1,27 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": true,
+    "**/.github": true,
+    "**/*-lock.*": true,
+    "**/*.d.ts": true,
+    "**/*.history": true,
+    "**/*.next": true,
+    "LICENSE": true,
+  },
+  "workbench.colorCustomizations": {
+    "editorUnnecessaryCode.border": "#dd7aab",
+    "editor.selectionBackground": "#1e5764",
+    "editor.selectionHighlightBackground": "#7a7e06",
+    "editor.findMatchBackground": "#04c745a8",
+    "editor.findMatchHighlightBackground": "#ff7b00a1",
+    "activityBar.background": "#2B294E",
+    "titleBar.activeBackground": "#3C3A6E",
+    "titleBar.activeForeground": "#FBFBFD"
+  }
+}
