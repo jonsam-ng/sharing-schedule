@@ -13,7 +13,7 @@ const config: DocsThemeConfig = {
 	logo: (
 		<>
 			<svg
-				class="logo"
+				className="logo"
 				viewBox="0 0 1024 1024"
 				version="1.1"
 				xmlns="http://www.w3.org/2000/svg"
@@ -61,7 +61,7 @@ const config: DocsThemeConfig = {
 		link: "https://portfolio.jonsam.site/contact/",
 		icon: (
 			<svg
-				class="icon contact"
+				className="icon contact"
 				viewBox="0 0 1024 1024"
 				version="1.1"
 				xmlns="http://www.w3.org/2000/svg"
